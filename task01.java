@@ -3,7 +3,7 @@
  * The code will output "..." 'n' amount of times before finally hitting the base case which says Blastoff!
  * 
  * 2) Modify it so that it prints only the even numbers.
- * See lines 15-20
+ * See lines 14-21
  * 
  * 3) What is the time complexity of this algorithm and why?
  * The time complexity of this algorithm is linear or O(n) because countDown is being recalled for 'n' amount of times until the base case is reached.
